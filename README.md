@@ -1,4 +1,4 @@
-## Your Name
+## Ilias Grigoropoulos
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -23,18 +23,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2019 to March 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, VueJS
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Eastern Macedonia and Thrace Institute of Technology (2014 to 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc Oil & Gas Technology
+- 7.83 / 10 - Upper 2nd
+- English-speaking course
+
+#### Demcoritus University of Thrace (2005 to 2014)
+
+- Integrated MSc (Dipl.-Ing.) Environmental Engineering
+- 7.43 / 10 - Upper 2nd
+- Emphasis: Atmospheric Pollution - Renewable Energy Sources
 
 #### Any other qualifications
 
