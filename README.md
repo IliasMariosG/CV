@@ -23,22 +23,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (November 2019 to March 2020)
+#### Makers Academy (December 2019 - March 2020)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript, VueJS
 - RSpec, Jasmine
 
-#### Eastern Macedonia and Thrace Institute of Technology (2014 to 2016)
+#### Eastern Macedonia and Thrace Institute of Technology (2014 - 2016)
 
-- MSc Oil & Gas Technology
+- MSc in Oil & Gas Technology
 - 7.83 / 10 - Upper 2nd
 - English-speaking course
 
-#### Demcoritus University of Thrace (2005 to 2014)
+#### Democritus University of Thrace (2005 - 2014)
 
-- Integrated MSc (Dipl.-Ing.) Environmental Engineering
+- Integrated MSc (Dipl.-Ing.) in Environmental Engineering
 - 7.43 / 10 - Upper 2nd
 - Emphasis: Atmospheric Pollution - Renewable Energy Sources
 
