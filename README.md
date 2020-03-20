@@ -55,6 +55,7 @@ That in some arguable way make you a better software developer or well-rounded p
 **Constructions Land and Sea** (Aug 2017 - Jan 2018)   
 *Junior Site Engineer / Procurement Engineer*  
 - Any experience relevent to software development
+
 *Project Engineer* (Nov 2017)
 - Measurements, surveys, drawings in a ship retrofitting project
 
