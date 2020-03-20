@@ -48,12 +48,12 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Agricultural Cooperative Messinia Union** (May 2019 - Jun 2019)    
+*Applications Support Consultant*  
+- Built basic SQL queries for existing and newly registered crops geolocation on the database of each application. It proved time-saving for cases where the by the book guidelines were not effective
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Constructions Land and Sea** (Aug 2017 - Jan 2018)   
+*Junior Site Engineer / Procurement Engineer*  
 - Any experience relevent to software development
 
 ## Hobbies
