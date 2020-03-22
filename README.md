@@ -47,14 +47,15 @@ As an environmental engineering graduate with a master in oil and gas technology
 *Project Engineer* (Nov 2017)
 - Measurements, surveys, drawings in a ship retrofitting project at Piraeus Port, Greece
 
-**Mneia Merimnas, Risk Management & HSSE Consultants** (Aug 2016 - Nov 2016)    
+**Mneia Merimnas, Risk Management & HSSE Consultants**; Kalamata, Greece (Aug 2016 - Nov 2016)    
 *Intern Health and Safety Consultant*
 - Stakeholder engagement, preliminary safety training (20 people)
 
 **Igloo, Ice-cream Franchise**; Kalamata, Greece (2002 - 2010)
 - Cultivated client relationships in a fast paced environment among the city’s 2 most reputable stores
 
-**Operations Strategy Management, Kalamata FC S.A., Professional Club**; Kalamata, Greece (2003 - 2010)
+**Kalamata FC S.A., Professional Club**; Greece (2003 - 2010)
+*Operations Strategy Management*
 - Extremely busy environment, contract negotiations, helped with screening with budget in mind
 
 ## Additional experience and information
