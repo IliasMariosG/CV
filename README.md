@@ -1,6 +1,6 @@
 ## Ilias Grigoropoulos
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+As an environmental engineering graduate with a master in oil and gas technology, I am affiliated with technology and data analysis. I have worked in the construction industry, also possess a business acumen due to my involvement in the retail and sports industry. Due to my background I work well in cross-functional teams. Programming excites me because I can combine logic with creativity to solve tasks at hand.
 
 ## Skills
 
@@ -25,20 +25,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (December 2019 - March 2020)
 
-- OOP, TDD, MVC
-- Agile/XP
-- Ruby, Rails, JavaScript, VueJS
-- RSpec, Jasmine
+12-week leading coding bootcamp
+- Practices: Object Oriented Programming, Test Driven Development, MVC
+- Workflow Practices: Agile/XP, pair-programming
+- Languages: Ruby, JavaScript, HTML, CSS
+- Tests: RSpec, Capybara, Jasmine
+- Frameworks:Ruby on Rails, Sinatra, VueJS
 
 #### Eastern Macedonia and Thrace Institute of Technology (2014 - 2016)
 
-- MSc in Oil & Gas Technology
+MSc in Oil & Gas Technology
 - 7.83 / 10 - Upper 2nd
 - English-speaking course
+- Thesis: "*The Relation between Oil Price and Economy*". Developed an aggregate indicator for asessing the oil vulnerability of 25 OECD, oil-importing countries. The main statistical technique, Principal Component Analysis, is an unsupervised learning method. Tools: R language
 
 #### Democritus University of Thrace (2005 - 2014)
 
-- Integrated MSc (Dipl.-Ing.) in Environmental Engineering
+Integrated MSc (Dipl.-Ing.) in Environmental Engineering
 - 7.43 / 10 - Upper 2nd
 - Emphasis: Atmospheric Pollution - Renewable Energy Sources
 
@@ -54,11 +57,11 @@ That in some arguable way make you a better software developer or well-rounded p
 
 **Constructions Land and Sea** (Aug 2017 - Jan 2018)   
 *Junior Site Engineer / Procurement Engineer*  
-- Any experience relevent to software development
+- Worked with and managed 2 teams of 10 - 15 technicians during the construction of a 5-star hotel with 77 beds
 
 *Project Engineer* (Nov 2017)
 - Measurements, surveys, drawings in a ship retrofitting project
 
 ## Hobbies
 
-Yoga, Sports, Socialising, Coding Developments
+Yoga, Sports, Socialising, Reading, Coding Developments
