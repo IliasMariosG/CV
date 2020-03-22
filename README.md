@@ -2,28 +2,9 @@
 
 As an environmental engineering graduate with a master in oil and gas technology, I am affiliated with technology and data analysis. I have worked in the construction industry, also possess a business acumen due to my involvement in the retail and sports industry. Due to my background I work well in cross-functional teams. Programming excites me because I can combine logic with creativity to solve tasks at hand.
 
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
-#### Makers Academy (December 2019 - March 2020)
+#### Makers Academy, London (December 2019 - March 2020)
 
 12-week Leading Coding Bootcamp
 - Practices: Object Oriented Programming, Test Driven Development, MVC
@@ -32,14 +13,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Tests: RSpec, Capybara, Jasmine
 - Frameworks:Ruby on Rails, Sinatra, VueJS
 
-#### Eastern Macedonia and Thrace Institute of Technology (*2016*)
+#### Eastern Macedonia and Thrace Institute of Technology, Greece (*2016*)
 
 #### MSc in Oil & Gas Technology, English-speaking
 - **Business** and **engineering** course
 - 7.83 / 10 - Upper 2nd
 - Thesis: "*The Relation between Oil Price and Economy*". Developed an aggregate indicator for asessing the vulnerability of 23 oil-importing, OECD countries. The statistical technique implemented, namely Principal Component Analysis, is an unsupervised learning method. Main tool: R
 
-#### Democritus University of Thrace (*2014*)
+#### Democritus University of Thrace, Greece (*2014*)
 
 #### Integrated MSc (Dipl.-Ing.) in Environmental Engineering
 - University of Padova, Italy. ERASMUS programme, spring semester 2009
@@ -78,8 +59,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Additional experience and information
 Online Courses
-- SQL for Data Analysis (Udacity / Work in progress)
-- “The Modern Python 3 Bootcamp” (Udemy / Work in progress)
+- SQL for Data Analysis (Udacity / Partly worked before Makers)
+- “The Modern Python 3 Bootcamp” (Udemy / Partly worked before Makers - Work in progress)
 
 Languages
 - English (Fluent at business level)
