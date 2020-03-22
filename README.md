@@ -25,42 +25,56 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (December 2019 - March 2020)
 
-12-week leading coding bootcamp
+12-week Leading Coding Bootcamp
 - Practices: Object Oriented Programming, Test Driven Development, MVC
-- Workflow Practices: Agile/XP, pair-programming
+- Workflow Practices: Agile/XP, Pair-programming
 - Languages: Ruby, JavaScript, HTML, CSS
 - Tests: RSpec, Capybara, Jasmine
 - Frameworks:Ruby on Rails, Sinatra, VueJS
 
 #### Eastern Macedonia and Thrace Institute of Technology (2014 - 2016)
 
-MSc in Oil & Gas Technology
+MSc in Oil & Gas Technology, English-speaking
+- **Business** and **engineering** course
 - 7.83 / 10 - Upper 2nd
-- English-speaking course
-- Thesis: "*The Relation between Oil Price and Economy*". Developed an aggregate indicator for asessing the oil vulnerability of 25 OECD, oil-importing countries. The main statistical technique, Principal Component Analysis, is an unsupervised learning method. Tools: R language
+- Thesis: "*The Relation between Oil Price and Economy*". Developed an aggregate indicator for asessing the vulnerability of 23 oil-importing, OECD countries. The statistical technique implemented, namely Principal Component Analysis, is an unsupervised learning method. Main tool: R
 
 #### Democritus University of Thrace (2005 - 2014)
 
 Integrated MSc (Dipl.-Ing.) in Environmental Engineering
+- University of Padova, Italy. ERASMUS programme, spring semester 2009
+- Completed 73 modules, programming included
 - 7.43 / 10 - Upper 2nd
 - Emphasis: Atmospheric Pollution - Renewable Energy Sources
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- “*Penetration of Renewable Energy Sources in EU-27 Member States’ Balances*”
 
 ## Experience
 
-**Agricultural Cooperative Messinia Union** (May 2019 - Jun 2019)    
+**Agricultural Cooperative Messinia Union**; Kalamata, Greece (Apr 2019 - Jun 2019)    
 *Applications Support Consultant*  
 - Built basic SQL queries for existing and newly registered crops geolocation on the database of each application. It proved time-saving for cases where the by the book guidelines were not effective
 
-**Constructions Land and Sea** (Aug 2017 - Jan 2018)   
+**Cup Tales, Coffee shop**; London, UK (Oct 2018 - Nov 2018)
+*Staff*
+- Part-time role through which I secured personal funding for the CIWEM membership fees
+
+**Constructions Land and Sea**; Kalamata, Greece (Aug 2017 - Jan 2018)   
 *Junior Site Engineer / Procurement Engineer*  
-- Worked with and managed 2 teams of 10 - 15 technicians during the construction of a 5-star hotel with 77 beds
+- Worked with and managed 2 teams of 10 - 15 technicians during the construction of a 5-star hotel with 77 beds. Project value: € 5.5 million
+- Developed a weekly project schedule and an overall plan of 182 main activities
 
 *Project Engineer* (Nov 2017)
-- Measurements, surveys, drawings in a ship retrofitting project
+- Measurements, surveys, drawings in a ship retrofitting project at Piraeus Port, Greece
+
+**Mneia Merimnas, Risk Management & HSSE Consultants** (Aug 2016 - Nov 2016)
+*Intern Health and Safety Consultant*
+- Stakeholder engagement, preliminary safety training (20 people)
+
+**Igloo, Ice-cream Franchise**; Kalamata, Greece (2002 - 2010)
+- Cultivated client relationships in a fast paced environment among the city’s 2 most reputable stores
+
+**Operations Strategy Management, Kalamata FC S.A., Professional Club**; Kalamata, Greece (2003 - 2010)
+- Extremely busy environment, contract negotiations, helped with screening with budget in mind
 
 ## Hobbies
 
