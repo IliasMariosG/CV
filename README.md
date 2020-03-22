@@ -32,16 +32,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Tests: RSpec, Capybara, Jasmine
 - Frameworks:Ruby on Rails, Sinatra, VueJS
 
-#### Eastern Macedonia and Thrace Institute of Technology (2014 - 2016)
+#### Eastern Macedonia and Thrace Institute of Technology (*2016*)
 
-MSc in Oil & Gas Technology, English-speaking
+#### MSc in Oil & Gas Technology, English-speaking
 - **Business** and **engineering** course
 - 7.83 / 10 - Upper 2nd
 - Thesis: "*The Relation between Oil Price and Economy*". Developed an aggregate indicator for asessing the vulnerability of 23 oil-importing, OECD countries. The statistical technique implemented, namely Principal Component Analysis, is an unsupervised learning method. Main tool: R
 
-#### Democritus University of Thrace (2005 - 2014)
+#### Democritus University of Thrace (*2014*)
 
-Integrated MSc (Dipl.-Ing.) in Environmental Engineering
+#### Integrated MSc (Dipl.-Ing.) in Environmental Engineering
 - University of Padova, Italy. ERASMUS programme, spring semester 2009
 - Completed 73 modules, programming included
 - 7.43 / 10 - Upper 2nd
@@ -75,6 +75,16 @@ Integrated MSc (Dipl.-Ing.) in Environmental Engineering
 
 **Operations Strategy Management, Kalamata FC S.A., Professional Club**; Kalamata, Greece (2003 - 2010)
 - Extremely busy environment, contract negotiations, helped with screening with budget in mind
+
+## Additional experience and information
+Online Courses
+- SQL for Data Analysis (Udacity / Work in progress)
+- “The Modern Python 3 Bootcamp” (Udemy / Work in progress)
+
+Languages
+- English (Fluent at business level)
+- Greek (Native)
+- Italian (Intermediate)
 
 ## Hobbies
 
