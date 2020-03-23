@@ -54,7 +54,7 @@ As an environmental engineering graduate with a master in oil and gas technology
 **Igloo, Ice-cream Franchise**; Kalamata, Greece (2002 - 2010)
 - Cultivated client relationships in a fast paced environment among the city’s 2 most reputable stores
 
-**Kalamata FC S.A., Professional Club**; Greece (2003 - 2010)
+**Kalamata FC S.A., Professional Club**; Greece (2003 - 2010)    
 *Operations Strategy Management*
 - Extremely busy environment, contract negotiations, helped with screening with budget in mind
 
