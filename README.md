@@ -59,6 +59,9 @@ As an environmental engineering graduate with a master in oil and gas technology
 - Extremely busy environment, contract negotiations, helped with screening with budget in mind
 
 ## Additional experience and information
+Blog
+- [Medium](https://medium.com/@ilias_grigorop2)
+
 Online Courses
 - SQL for Data Analysis (Udacity / Partly worked before Makers)
 - “The Modern Python 3 Bootcamp” (Udemy / Partly worked before Makers - Work in progress)
