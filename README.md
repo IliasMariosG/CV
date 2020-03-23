@@ -4,7 +4,7 @@ As an environmental engineering graduate with a master in oil and gas technology
 
 ## Education
 
-#### Makers Academy, London (December 2019 - March 2020)
+#### Makers Academy, London (Dec 2019 - Mar 2020)
 
 12-week Leading Coding Bootcamp
 - Practices: Object Oriented Programming, Test Driven Development, MVC
