@@ -60,7 +60,7 @@ As an environmental engineering graduate with a master in oil and gas technology
 
 ## Additional experience and information
 Blog
-- [Medium](https://medium.com/@ilias_grigorop2)
+- [Medium](https://medium.com/@ilias_grigorop2) (...under development)
 
 Online Courses
 - SQL for Data Analysis (Udacity / Partly worked before Makers)
