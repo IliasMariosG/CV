@@ -1,12 +1,14 @@
 ## Ilias Grigoropoulos
 
+### Welcome and allow me to introduce myself to you...
+
 As an environmental engineering graduate with a master in oil and gas technology, I am affiliated with technology and data analysis. I have worked in the construction industry, also possess business acumen due to my involvement in the retail and sports industry. This varied background results in me working well in cross-functional teams. Programming excites me because I can combine logic with creativity to solve tasks at hand. I like to adopt the Makers way in agile practices and TDD, adjusting my approach whenever necessary.
 
 ## Education
 
 #### Makers Academy, London (Dec 2019 - Mar 2020)
 
-12-week Leading Coding Bootcamp
+#### 12-week Leading Coding Bootcamp
 - Practices: Object Oriented Programming, Test Driven Development, MVC
 - Workflow Practices: Agile/XP, Pair-programming
 - Languages: Ruby, JavaScript, HTML, CSS
@@ -64,7 +66,7 @@ As an environmental engineering graduate with a master in oil and gas technology
 Online Courses
 - SQL: "SQL for Data Analysis" (Udacity / Partly worked before Makers)
 - Python - Data Science: “The Modern Python 3 Bootcamp” (Udemy / Partly worked before Makers)
-- Work in Progress. In conjuction with the former: "Python for Data Science and Machine Learning Bootcamp (Udemy) to brush up Python and develop Data Science-related skills
+- Work in Progress, in conjuction with the former: "Python for Data Science and Machine Learning Bootcamp (Udemy) to brush up Python and develop Data Science-related skills
 
 Languages
 - English (Fluent at business level)
@@ -80,4 +82,4 @@ Memberships
 
 ## Hobbies
 
-Yoga, Sports, Socialising, Reading, Coding Developments
+Yoga, Sports, Socialising, Reading Books and...about Energy, Environment, Financial, Healthcare, Coding Developments (It is indeed one of my hobbies)
