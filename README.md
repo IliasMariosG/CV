@@ -42,15 +42,16 @@ As an environmental engineering graduate with a master in oil and gas technology
 
 **Constructions Land and Sea**; Kalamata, Greece (Aug 2017 - Jan 2018)   
 *Junior Site Engineer / Procurement Engineer*  
-- Worked with and managed 2 teams during the construction of a 5-star hotel with 77 beds. Project value: € 5.5 million
+- Worked with and managed 2 teams during the construction of the 5-star "Messinian Icon" hotel. Project value: € 5.5 million
 - Developed a weekly project schedule and an overall plan of 182 main activities
+- Created a total expenses report reducing procurement costs by crosschecking consignment notes and invoices
 
 *Project Engineer* (Nov 2017)
 - Measurements, surveys, drawings in a ship retrofitting project at Piraeus Port, Greece
 
 **Mneia Merimnas, Risk Management & HSSE Consultants**; Kalamata, Greece (Aug 2016 - Nov 2016)    
 *Intern Health and Safety Consultant*
-- Stakeholder engagement, preliminary safety training (20 people)
+- Stakeholder engagement, risk assessments at workplace for a range of low-risk industries, provided preliminary safety training for 20 people from interdisciplinary backgrounds (engineers, scientists, technicians, admin) and adjusted my approach to get the message across to each discipline (Client: Municipality, Civil sector)
 
 **Igloo, Ice-cream Franchise**; Kalamata, Greece (2002 - 2010)
 - Cultivated client relationships in a fast paced environment among the city’s 2 most reputable stores
@@ -61,8 +62,9 @@ As an environmental engineering graduate with a master in oil and gas technology
 
 ## Additional experience and information
 Online Courses
-- SQL for Data Analysis (Udacity / Partly worked before Makers)
-- “The Modern Python 3 Bootcamp” (Udemy / Partly worked before Makers - Work in progress)
+- SQL: "SQL for Data Analysis" (Udacity / Partly worked before Makers)
+- Python - Data Science: “The Modern Python 3 Bootcamp” (Udemy / Partly worked before Makers)
+- Work in Progress. In conjuction with the former: "Python for Data Science and Machine Learning Bootcamp (Udemy) to brush up Python and develop Data Science-related skills
 
 Languages
 - English (Fluent at business level)
