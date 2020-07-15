@@ -1,11 +1,11 @@
 ## Ilias Grigoropoulos
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/iliasgrigoro" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/iliasgrigoro/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a>
 </p>
 
-### Welcome and let me to introduce myself to you...
+### Welcome and let me introduce myself to you...
 
 As an environmental engineering graduate with a master in oil and gas technology, I am affiliated with technology and data analysis. I have worked in the construction industry, also possess business acumen due to my involvement in the retail and sports industry. This varied background results in me working well in cross-functional teams. Programming excites me because I can combine logic with creativity to solve tasks at hand. I like to adopt the Makers way in agile practices and TDD, adjusting my approach whenever necessary.
 
