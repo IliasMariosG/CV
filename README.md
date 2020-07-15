@@ -19,6 +19,7 @@ As an environmental engineering graduate with a master in oil and gas technology
 - **Business** and **engineering** course
 - 7.83 / 10 - Upper 2nd
 - Thesis: "*The Relation between Oil Price and Economy*". Developed an aggregate indicator for asessing the vulnerability of 23 oil-importing, OECD countries. The statistical technique implemented, namely Principal Component Analysis, is an unsupervised learning method. Main tool: R
+- Short Cycle Course: Oil Trading 20-hour training
 
 #### Democritus University of Thrace, Greece (*2014*)
 
