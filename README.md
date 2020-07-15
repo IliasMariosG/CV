@@ -60,9 +60,6 @@ As an environmental engineering graduate with a master in oil and gas technology
 - Extremely busy environment, contract negotiations, helped with screening with budget in mind
 
 ## Additional experience and information
-Blog
-- [Medium](https://medium.com/@ilias_grigorop2) (...under development)
-
 Online Courses
 - SQL for Data Analysis (Udacity / Partly worked before Makers)
 - “The Modern Python 3 Bootcamp” (Udemy / Partly worked before Makers - Work in progress)
@@ -71,6 +68,13 @@ Languages
 - English (Fluent at business level)
 - Greek (Native)
 - Italian (Intermediate)
+
+Blog
+- [Medium](https://medium.com/@ilias_grigorop2) (...under development)
+
+Memberships
+- Technical Chamber of Greece (TEE-TCG), 2018 - Present
+- Society of Petroleum Engineers (SPE), Professional grade, 2014 - Present
 
 ## Hobbies
 
