@@ -7,7 +7,7 @@
 
 ### Welcome and let me introduce myself to you...
 
-As an environmental engineering graduate with a master in oil and gas technology, I am affiliated with technology, data analysis, energy and environment. I have worked in the construction industry and possess business acumen due to my involvement in the retail and professional sports industry. With such a varied background, I do well in interdisciplinary teams and get joy from satisfying clients with quality products and services. Programming excites me because I can combine logic with creativity to solve tasks at hand. I like to adopt the Makers way in agile practices and TDD, adjusting my approach whenever necessary.
+As an environmental engineering graduate with a master in oil and gas technology, I am affiliated with technology, data analysis, energy and environment. I have worked in the construction industry and possess business acumen due to my involvement in the retail and professional sports industry. With such a varied background, I do well in multi-disciplinary teams and get joy from satisfying clients with quality products and services. Programming excites me because I can combine logic with creativity to solve tasks at hand. I like to adopt the Makers way in agile practices and TDD, adjusting my approach whenever necessary.
 
 ## Education
 
