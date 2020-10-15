@@ -9,6 +9,21 @@
 
 As an environmental engineering graduate with a master in oil and gas technology, I am affiliated with technology, data analysis, energy and environment. I have worked in the construction industry and possess business acumen due to my involvement in the retail and professional sports industry. With such a varied background, I do well in multi-disciplinary teams and get joy from satisfying clients with quality products and services. Programming excites me because I can combine logic with creativity to solve tasks at hand. I like to adopt the Makers way in agile practices and TDD, adjusting my approach whenever necessary.
 
+## Coding Projects
+
+**“OilWellsEarthquakes” (Mobile app - Personal project - Work in progress)**
+- A mobile application to assess the correlation between the presence of oil wells and earthquakes in Oklahoma State, US. Last issue solved: Rendering multiple markers on the map.
+- Data source: Kaggle, Frameworks: Expo CLI, React Native ([github repo](https://github.com/IliasMariosG/OilWellsEarthquakes))
+
+**“SimpleAssetTracker” (Web app - Group project - Django, React - Work in progress)**
+- An open-source asset management tool with smaller start-ups in mind. ([github repo](https://github.com/makersacademy/simpleassettracker))
+
+**“Acebook Derailed” (Web app - Ruby on Rails)**
+- Solved a persistent continuous integration problem by selecting and utilising the best available tool (code climate), thus enabling the team to meet the requirements / Encouraged everyone in the team to be better aligned with the user stories and  prioritise efforts, and as a result delivered more than the MVP on time ([github repo](https://github.com/IliasMariosG/acebook-derailed))
+
+**“Seasonal Regional” (Final project)**
+- Led the design of a back-end database in NoSQL (Firebase). Successfully researched for a viable combination of data sources and APIs appropriate for a product-based web application that allows users to make informed decisions about foods based on their environmental impact. ([github repo](https://github.com/IliasMariosG/seasonal-and-regional))
+
 ## Education
 
 #### Makers Academy, London (Dec 2019 - Mar 2020)
@@ -38,21 +53,6 @@ As an environmental engineering graduate with a master in oil and gas technology
 - Grade: 7.43 / 10 - Upper 2nd
 - Emphasis: Atmospheric Pollution - Renewable Energy Sources
 - Thesis: “*Penetration of Renewable Energy Sources in EU-27 Member States’ Balances*”
-
-## Coding Projects
-
-**“OilWellsEarthquakes” (Personal project)**
-- A mobile application to assess the correlation between the presence of oil wells and earthquakes in Oklahoma State, US. The project is under development. Last issue solved: Rendering multiple markers on the map.
-- Data source: Kaggle, Frameworks: Expo CLI, React Native ([github repo](https://github.com/IliasMariosG/OilWellsEarthquakes))
-
-**“SimpleAssetTracker” (Web app - Group project - Django, React)**
-- An open-source asset management tool with smaller start-ups in mind. The project is under development. ([github repo](https://github.com/makersacademy/simpleassettracker))
-
-**“Acebook Derailed” (Web app - Ruby on Rails)**
-- Solved a persistent continuous integration problem by selecting and utilising the best available tool (code climate), thus enabling the team to meet the requirements / Encouraged everyone in the team to be better aligned with the user stories and  prioritise efforts, and as a result delivered more than the MVP on time ([github repo](https://github.com/IliasMariosG/acebook-derailed))
-
-**“Seasonal Regional” (Final project)**
-- Led the design of a back-end database in NoSQL (Firebase). Successfully researched for a viable combination of data sources and APIs appropriate for a product-based web application that allows users to make informed decisions about foods based on their environmental impact. ([github repo](https://github.com/IliasMariosG/seasonal-and-regional))
 
 ## Experience
 
