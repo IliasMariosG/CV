@@ -13,12 +13,12 @@ Programming excites me because I can combine logic with creativity to solve task
 
 ## Skills
 
-| Languages|            | Testing   | Frameworks|                  |
-|----------|---|--------|-----------|-----------|------------------|
-| Python | Ruby         | RSpec     | Django | React Native - Expo |
-| JavaScript |PostgreSQL| Mocha     | Ruby on Rails | Sinatra      |
-| HTML | CSS   |         Capybara           |Vue.js     |
-|Language Agnostic Mindest | | | | |
+| Languages  |            | Testing   | Frameworks    |                     |
+|------------|------------|-----------|---------------|---------------------|
+| Python     | Ruby       | RSpec     | Django        | React Native - Expo |
+| JavaScript |PostgreSQL  | Mocha     | Ruby on Rails | Sinatra             |    
+| HTML       | CSS        | Capybara  |Vue.js.        |
+|Language Agnostic Mindset|
 
 ## Most Recent Coding Projects
 
