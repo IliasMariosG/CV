@@ -60,7 +60,7 @@ Programming excites me because I can combine logic with creativity to solve task
 
 ## Other Coding Projects
 
-**“OilWellsEarthquakes” (Mobile app - Personal project - Work in progress)**
+**“OilWellsEarthquakes” (Mobile app - Personal project - Paused after got Involved in 'Acknowledge')**
 
 - A mobile application to assess the correlation between the presence of oil wells and earthquakes in Oklahoma State, US. Last issue solved: Rendering multiple markers on the map. To do: Data Storage ([github repo](https://github.com/IliasMariosG/OilWellsEarthquakes))
 
@@ -170,7 +170,9 @@ Programming excites me because I can combine logic with creativity to solve task
 - **Python** - Data Science:
   - "Python and Django Full Stack Web Developer Bootcamp" (Udemy / Work in progress to enhance Python familiarity along with HTML and CSS)
   - “The Modern Python 3 Bootcamp” (Udemy / Partly worked before Makers and keep using it as a reference)
-  - "Python for Data Science and Machine Learning Bootcamp to brush up Python and develop data science-related skills (Udemy / NumPy and Pandas)
+  - "Python for Data Science and Machine Learning Bootcamp to brush up Python and develop data science-related skills (Udemy / NumPy and Pandas
+- **JavaScript, HTML, CSS**:
+  - "Full-Stack Engineer" Path (Codecademy PRO/ Currently Doing)
 
 ### Languages
 
@@ -180,7 +182,7 @@ Programming excites me because I can combine logic with creativity to solve task
 
 ### Blog
 
-[Medium](https://medium.com/@ilias_grigorop2) (...under development)
+[My blog on Medium](https://medium.com/@ilias_grigorop2) (...Ready to publish my first blog! 03/02/2021)
 
 ### Memberships
 
