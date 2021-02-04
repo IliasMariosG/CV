@@ -3,6 +3,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/iliasgrigoro/" rel="nofollow noreferrer">
    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+  <a href="https://ilias0g.medium.com" rel="nofollow noreferrer">
+   <img src="https://user-images.githubusercontent.com/57366310/106892205-68215380-66f4-11eb-8ed3-b2ffaf9e106c.png" alt="Medium" hspace="50" height="42" width="42"></a>
+
 </p>
 
 ### Welcome and let me introduce myself to you...
@@ -180,9 +183,12 @@ Programming excites me because I can combine logic with creativity to solve task
 - Greek (Native)
 - Italian (Intermediate)
 
+<!--
 ### Blog
-
-[My blog on Medium](https://medium.com/@ilias_grigorop2) (...Ready to publish my first blog! 03/02/2021)
+-->
+<!--
+[My blog on Medium](https://medium.com/@ilias_grigorop2)
+-->
 
 ### Memberships
 
