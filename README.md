@@ -5,7 +5,10 @@
    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
   <a href="https://ilias0g.medium.com" rel="nofollow noreferrer">
    <img src="https://user-images.githubusercontent.com/57366310/106892205-68215380-66f4-11eb-8ed3-b2ffaf9e106c.png" alt="Medium" hspace="50" height="42" width="42"></a>
-
+  <a href="https://www.iliasgrigoropoulos.tech">
+    <!-- TODO: Attribute the original source correctly. Guide : https://labs.creativecommons.org/2011/ccrel-guide/#Images-->
+    <about="https://user-images.githubusercontent.com/57366310/107763632-98da3c00-6d37-11eb-9f21-ade2aa592da6.png" xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#">
+  <img src="https://user-images.githubusercontent.com/57366310/107763632-98da3c00-6d37-11eb-9f21-ade2aa592da6.png" alt="My website" hspace="50" height="42" width="42"></a>
 </p>
 
 ### Welcome and let me introduce myself to you...
