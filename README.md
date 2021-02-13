@@ -21,12 +21,14 @@
 [Experience](#experience) |
 [Addition Skills and information](#additional-skils-and-information) |
 
+---
 ### Welcome and let me introduce myself...
 
 As an environmental engineering graduate with a master in oil and gas technology, I am affiliated with technology, data analysis, energy and environment. I have worked in the construction industry and possess business acumen due to my involvement in the retail and professional sports industry. With such a varied background, I do well in multi-disciplinary teams and get joy from satisfying clients with quality products and services.
 
 Programming excites me because I can combine logic with creativity to solve tasks at hand. I like to adopt the Makers way in agile practices and TDD, adjusting my approach whenever necessary.
 
+---
 ## Skills
 
 | Languages  |            | Testing   | Frameworks    |                     |
@@ -36,14 +38,17 @@ Programming excites me because I can combine logic with creativity to solve task
 | HTML       | CSS        | Capybara  |Vue.js.        |
 |Language Agnostic Mindset|
 
+---
 ## Most Recent Coding Projects
 
-**“Acknowledge” (Universal Mobile App - 6-person team - Expo, React Native - Work in progress)**
+**“Acknowledge” (Universal Mobile App - 6-person team - Work in progress)**
 
-- A mobile application to see your achievements and acknowledge yourself. Latest issue faced: Testing with jest and detox. Latest issue solved: Reorganise homepage view as per the product leader’s guidelines
+- A mobile application to see your achievements and acknowledge yourself
+- Outstanding challenges: Testing with jest and detox, 
+- Latest issue solved: Reorganise [homepage view](https://github.com/DavidStewartLDN/Acknowledge/commits/new_homepage) as per the product leader’s guidelines ([github repo](https://github.com/DavidStewartLDN/Acknowledge))
 
-  |Framework|
-  |-|
+  |Framework          |
+  |-------------------|
   |Expo - React Native|
 
 **TDD-related projects**:
@@ -58,7 +63,7 @@ Programming excites me because I can combine logic with creativity to solve task
   |----------|-----|
   |Ruby      |RSpec|
 
-**“Log Parser” (Personal - Ruby)**
+**“Log Parser” (Personal)**
 
 - A Ruby script app that receives a log file as argument and returns two ordered lists of web pages following a Test-Driven Development approach with RSpec ([github repo](https://github.com/IliasMariosG/log-parser))
 
@@ -66,7 +71,7 @@ Programming excites me because I can combine logic with creativity to solve task
   |----------|-----|
   |Ruby      |RSpec|
 
-**“SimpleAssetTracker” (Web app - Group project - Django, React)**
+**“SimpleAssetTracker” (Web app - Group project)**
 
 - An open-source asset management tool with smaller start-ups in mind ([github repo](https://github.com/makersacademy/simpleassettracker))
 
@@ -74,35 +79,38 @@ Programming excites me because I can combine logic with creativity to solve task
   |-------|-----|
   |Django |React|
 
+---
 ## Other Coding Projects
 
 **“OilWellsEarthquakes” (Mobile app - Personal project - Paused after got Involved in 'Acknowledge')**
 
-- A mobile application to assess the correlation between the presence of oil wells and earthquakes in Oklahoma State, US. Last issue solved: Rendering multiple markers on the map. To do: Data Storage ([github repo](https://github.com/IliasMariosG/OilWellsEarthquakes))
+- A mobile application to assess the correlation between the presence of oil wells and earthquakes in Oklahoma State, US.
+- Last issue solved: Rendering multiple markers on the map. To do: Data Storage ([github repo](https://github.com/IliasMariosG/OilWellsEarthquakes))
 
 
   |Framework| Data Source    |
   |---------|----------------|
-  |Expo - React Native|Kaggle|
+  |Expo - React Native|[Kaggle](https://www.kaggle.com/ksuchris2000/oklahoma-earthquakes-and-saltwater-injection-wells/data)|
 
-**“Acebook Derailed” (Web app - Ruby on Rails)**
+**“Acebook Derailed” (Web app)**
 
 - Solved a persistent continuous integration problem by selecting and utilising the best available tool (code climate), thus enabling the team to meet the requirements
 - Encouraged everyone in the team to be better aligned with the user stories and  prioritise efforts, and as a result delivered more than the MVP on time ([github repo](https://github.com/IliasMariosG/acebook-derailed))
 
   |Framework|
   |---------|
-  |Rails    |
+  |Ruby on Rails    |
 
-**“Seasonal Regional” (Final project - Vue.js)**
+**“Seasonal Regional” (Final project)**
 
 - Led the design of a back-end database in NoSQL (Firebase)
 - Successfully researched for a viable combination of data sources and APIs appropriate for a product-based web application that allows users to make informed decisions about foods based on their environmental impact ([github repo](https://github.com/IliasMariosG/seasonal-and-regional))
 
-  |Framework|
-  |---------|
-  |Vue.js   |
+  |Framework| Data Storage|
+  |---------|-------------|
+  |Vue.js   | Firebase    |
 
+---
 ## Education
 
 **Makers Academy, London (Dec 2019 - Mar 2020)**
@@ -138,6 +146,7 @@ Programming excites me because I can combine logic with creativity to solve task
 - Emphasis: Atmospheric Pollution - Renewable Energy Sources
 - Thesis: “*Penetration of Renewable Energy Sources in EU-27 Member States’ Balances*”
 
+---
 ## Experience
 
 **Messinia Union, Agricultural Cooperative Union**; Kalamata, Greece (Apr 2019 - Jun 2019)    
@@ -177,6 +186,7 @@ Programming excites me because I can combine logic with creativity to solve task
 
 - Cultivated client relationships in a fast paced environment among the city’s 2 most reputable stores
 
+---
 ## Additional skils and information
 
 ### Online Courses
