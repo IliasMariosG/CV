@@ -2,16 +2,26 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iliasgrigoro/" rel="nofollow noreferrer">
-   <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+   <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="icon linkedin ilias grigoropoulos" hspace="50" height="42" width="42"></a>
   <a href="https://ilias0g.medium.com" rel="nofollow noreferrer">
-   <img src="https://user-images.githubusercontent.com/57366310/106892205-68215380-66f4-11eb-8ed3-b2ffaf9e106c.png" alt="Medium" hspace="50" height="42" width="42"></a>
+   <img src="https://user-images.githubusercontent.com/57366310/106892205-68215380-66f4-11eb-8ed3-b2ffaf9e106c.png" alt="icon Medium ilias grigoropoulos blog" hspace="50" height="42" width="42"></a>
   <a href="https://www.iliasgrigoropoulos.tech">
     <!-- TODO: Attribute the original source correctly. Guide : https://labs.creativecommons.org/2011/ccrel-guide/#Images-->
     <about="https://user-images.githubusercontent.com/57366310/107763632-98da3c00-6d37-11eb-9f21-ade2aa592da6.png" xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#">
   <img src="https://user-images.githubusercontent.com/57366310/107763632-98da3c00-6d37-11eb-9f21-ade2aa592da6.png" alt="My website" hspace="50" height="42" width="42"></a>
 </p>
 
-### Welcome and let me introduce myself to you...
+---
+### Contents
+[Introduction](#welcome-and-let-me-introduce-myself) |
+[Skills](#skills) |
+[Recent Coding Projects](#most-recent-coding-projects) |
+[Other Coding Projects](#other-coding-projects) |
+[Education](#education) | 
+[Experience](#experience) |
+[Addition Skills and information](#additional-skils-and-information) |
+
+### Welcome and let me introduce myself...
 
 As an environmental engineering graduate with a master in oil and gas technology, I am affiliated with technology, data analysis, energy and environment. I have worked in the construction industry and possess business acumen due to my involvement in the retail and professional sports industry. With such a varied background, I do well in multi-disciplinary teams and get joy from satisfying clients with quality products and services.
 
@@ -44,9 +54,9 @@ Programming excites me because I can combine logic with creativity to solve task
 
 - [airport-challenge](https://github.com/IliasMariosG/airport_challenge)
 
-  |Technology|
-  |----------|
-  |Ruby, RSpec|
+  |Technology|     |
+  |----------|-----|
+  |Ruby      |RSpec|
 
 **“Log Parser” (Personal - Ruby)**
 
@@ -60,9 +70,9 @@ Programming excites me because I can combine logic with creativity to solve task
 
 - An open-source asset management tool with smaller start-ups in mind ([github repo](https://github.com/makersacademy/simpleassettracker))
 
-  |Framework    |
-  |-------------|
-  |Django, React|
+  |Frameworks|  |
+  |-------|-----|
+  |Django |React|
 
 ## Other Coding Projects
 
@@ -95,16 +105,16 @@ Programming excites me because I can combine logic with creativity to solve task
 
 ## Education
 
-#### Makers Academy, London (Dec 2019 - Mar 2020)
+**Makers Academy, London (Dec 2019 - Mar 2020)**
 
-#### 12-week Leading Software Development Bootcamp
+**12-week Leading Software Development Bootcamp**
 
 - Workflow: Agile/XP, Pair Programming
 - Practices: Object Oriented Programming (OOP), Test Driven Development (TDD), Model View Controller (MVC), Peer Code Review
 
-#### Eastern Macedonia and Thrace Institute of Technology, Greece (*2016*)
+**Eastern Macedonia and Thrace Institute of Technology, Greece (*2016*)**
 
-#### MSc in Oil & Gas Technology, English-speaking
+**MSc in Oil & Gas Technology, English-speaking**
 
 - **Business** and **engineering** course
 - Grade: 7.83 / 10 - Upper 2nd
@@ -118,9 +128,9 @@ Programming excites me because I can combine logic with creativity to solve task
   - Oil Trading 20-hour training
   - Visited Kavala Oil offshore platform and onshore facilities through a 20-hour industrial training
 
-### Democritus University of Thrace, Greece (*2014*)
+**Democritus University of Thrace, Greece (*2014*)**
 
-#### Integrated MSc (Dipl.-Ing.) in Environmental Engineering
+**Integrated MSc (Dipl.-Ing.) in Environmental Engineering**
 
 - University of Padova, Italy. ERASMUS programme, spring semester 2009
 - Completed 73 modules, including programming in Fortran
@@ -185,13 +195,6 @@ Programming excites me because I can combine logic with creativity to solve task
 - English (Fluent at business level)
 - Greek (Native)
 - Italian (Intermediate)
-
-<!--
-### Blog
--->
-<!--
-[My blog on Medium](https://medium.com/@ilias_grigorop2)
--->
 
 ### Memberships
 
